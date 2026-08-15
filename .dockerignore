@@ -1,0 +1,11 @@
+# Ignore node_modules and log files
+node_modules
+npm-debug.log
+Dockerfile
+.dockerignore
+README.md
+.vercel.json
+.gitignore
+public/*.map
+public/*.gz
+public/*.zip

@@ -1,0 +1,17 @@
+{
+  "name": "app-bebe",
+  "version": "1.0.0",
+  "description": "Aplicação para revelar o sexo do bebê de forma divertida e suspense.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
